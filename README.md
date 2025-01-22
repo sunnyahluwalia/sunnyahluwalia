@@ -19,7 +19,7 @@ Hi, I'm **Japmandeep Ahluwalia (Sunny)**, an AI enthusiast with a strong foundat
 - **Voice Recognition Assistant**: Built an AI-powered voice assistant for handling repetitive customer queries in real-time.
 
 ## Certifications
-- 🎓 Master Course in Digital Marketing (IIM, 2024)
+- 🎓 Master Course in Digital Marketing, Artificial Intelligence and Python from Freedom with AI and Novitech R&D in 2024-25.
 - 🥇 Lean Six Sigma Yellow Belt (2024)
 - 🛠️ Advanced MS Office and Power BI (2024)
 
